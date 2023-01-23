@@ -1,0 +1,45 @@
+body {
+    background-image: url("starter_files/images/bg_plants_edit_2.png");
+    text-align: center;
+    background-color: #718b76;
+}
+
+nav {
+    text-align: center;
+    color: white;
+    margin-top: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 2%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+h1 {
+    color: #60521e;
+    text-align: center;
+    font-size: 45px;
+}
+
+p {
+    margin: auto;
+    line-height: 1.6;
+    color: #e9e4d2;
+    font-family: Georgia;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-style: groove;
+    border-radius: 3%;
+    border-color: #ad984f;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #526148;
+}
+
+#location {
+    margin-bottom: 1%;
+}

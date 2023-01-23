@@ -1,0 +1,77 @@
+body {
+    background-image: url("starter_files/images/flower_bg_3.png");
+    text-align: center;
+    background-color: #718b76;
+    line-height: 1.6;
+}
+
+h1 {
+    color: rgb(44, 58, 50);
+    font-size: 45px;
+}
+
+nav {
+    text-align: center;
+    color: white;
+    margin-top: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 5%;
+}
+
+h2 {
+    color: black;
+    font-family: cursive;
+    font-size: 50px;
+}
+
+.flower {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: 5px solid #ad984f;
+}
+
+#hyacinth {
+    border-color: rgb(140, 105, 154);
+}
+
+#lily {
+    border-color: beige;
+}
+
+#crown {
+    border-color: #b35443;
+}
+
+#buttercup {
+    border-color: rgb(219, 219, 103);
+}
+
+#starflower {
+    border-color: rgb(77, 104, 186);
+}
+
+#tulip {
+    border-color: rgb(255, 94, 156);
+}
+
+.flower_sections {
+    color: #e9e4d2;
+    font-family: Georgia;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 15%;
+    border-style: groove;
+    border-radius: 3%;
+    border-color: #ad984f;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 1%;
+    background-color: #526148;
+}
